@@ -1,0 +1,3 @@
+git rebase master
+git merge
+git merge origin/master
